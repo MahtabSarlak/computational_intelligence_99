@@ -1,5 +1,5 @@
 # computational_intelligence_99
-This repository is for fall 2020 computational Engineering course where i put my assignments assigned throughout the semester. These assignments are a good practice for acquiring basic knowledge regarding Machine/Deep learning.
+This repository is for fall 2020 computational intelligence course where i put my assignments assigned throughout the semester. These assignments are a good practice for acquiring basic knowledge regarding Machine/Deep learning.
 ## Assignment Descriptions
 
 ### HW1
